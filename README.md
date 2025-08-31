@@ -1,5 +1,5 @@
 # Task 1
-- Python ML
+- Basics of Python 
 
 # Task 2
-- Performing EDA
+- Data Pre-processing & Visualization(EDA)
